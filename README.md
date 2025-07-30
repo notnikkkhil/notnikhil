@@ -1,3 +1,3 @@
 # notnikhil
-this is my first git resporatory
+this is my first git resporatory.  
 author - nikhil singh
